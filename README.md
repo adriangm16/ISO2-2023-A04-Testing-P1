@@ -1,6 +1,6 @@
 # ISO2-2023-A04-Testing-P1
 
-First testing exercise. Done by Adrián Gómez del Moral Rodríguez Madridejos and Juan Alcázar Morales
+First testing exercise.
 
 ## Statement
 
